@@ -1,0 +1,4 @@
+[package]
+name = "wordscan"
+version = "0.1.0"
+authors = ["sam"]
